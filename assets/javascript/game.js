@@ -3,6 +3,7 @@
  var counter = 0;
  var wins = 0;
  var loses = 0;
+
  var myAudio1 = document.getElementById("audio1"); 
  myAudio1.play();
 
